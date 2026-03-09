@@ -8,7 +8,7 @@ Front-end project practice
 - View available parking spots.
 - Reserve a spot ahead of time.
 - User-friendly front-end layout with HTML and CSS.
-- Responsive design for desktop and mobile.
+
 
 ## Pages
 1. **Home Page:** Introduction and overview of the ParkPilot service.
