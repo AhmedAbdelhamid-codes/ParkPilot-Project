@@ -1,0 +1,325 @@
+
+body{
+
+    margin: 0px;
+}
+
+
+.navbar a{
+   display: inline-block;
+   margin-right: 15px;
+   padding: 20px;
+   font-size: 25px;
+   text-decoration: none;
+   color: black;
+   transition: color 0.5s ;
+}
+
+.navbar a:hover{
+   color: rgb(5, 122, 255) ;
+}
+
+
+.clear{
+    clear: both;
+}
+
+
+.imge{
+   
+    width: 100%;
+    height: 500px;
+    /* border: 5px solid black; */
+    background-image: url(./images/OIP.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 10px;
+    padding: 1px;
+   
+}
+
+.h-1{
+   position: relative;
+   top: 150px;
+   color: rgb(246, 2, 2);
+   text-align: center;
+   font-weight: bolder;
+   font-size: 70px;
+  
+}
+
+
+.item2{
+   display: inline-block;
+   position: relative;
+   bottom: 100px;
+   left: 250px;
+   text-align: center;
+}
+
+.h-2{
+   
+   font-size: 30px;
+   font-weight: bolder;
+}
+
+.p1{
+   
+   font-size: 30px;
+   font-weight: 200;
+   
+}
+
+.item3{
+   width: 33%;
+  
+   float: left;
+ /* background-color: rgb(199, 57, 168); */
+ text-align: center;
+}
+
+.item3 .c4 img{
+   width: 100%;
+ 
+}
+
+
+
+.item3 .c4 p{
+   font-weight: 600;
+   font-size: 30px;
+    color: rgb(31, 131, 197);
+   padding-bottom: 10px;
+}
+
+
+.c4{
+   margin: 10px;
+ transition: transform 1s 0s , background-color 1s 0s ;
+}
+
+.c4:hover{
+   transform:scale(1.1);
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  background-color: rgb(32, 32, 64);
+}
+
+
+
+.item4{
+   
+   width: 100%;
+   height: 666px;
+   background-image: url(./images/360_F_113270995_v0RgIm4UIV0VFJw30vM4ZeptxaeHZOuK.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+
+}
+
+.h-3{
+   margin-top: 0px;
+   position: relative;
+   top: 300px;
+   text-align: center;
+   font-weight: bold;
+   font-size: 70px;
+   color: rgb(255, 255, 255);
+
+}
+
+.item5{
+   margin-top: 20px;
+   width: 50%;
+   float: left;
+ 
+}
+
+.item5 img{
+   width: 80%;
+   height: 500px;
+}
+
+.item6{
+   width: 50%;
+   float: left;
+  /* background-color: brown; */
+    margin-top: 150px;
+}
+
+.c5 h2{
+   /* background-color: aqua; */
+   padding-left: 10px;
+   font-size: 30px;
+   font-weight: bolder;
+}
+
+.c5 p{
+  /* background-color: brown; */
+   padding-left: 30px;
+   font-size: 25px;
+   font-weight: 200;
+   
+}
+
+.item7{
+   text-align: center;
+   margin-top: 5px;
+}
+
+.item7 h2{
+  
+   font-size: 30px;
+   font-weight: bolder;
+  
+}
+
+.item7 p{
+
+   font-size: 30px;
+   font-weight: 200;
+}
+
+.item8{
+   width: 33%;
+   float: left;
+   margin-top: 20px;
+}
+
+.c6{
+   text-align: center;
+   margin: 10px;
+    /* font-size: 30px;  */
+}
+
+.c6 h2{
+   font-size: 40px;
+   font-weight: bolder;
+}
+
+
+.c6 p{
+
+ font-size: 29px;
+ /* font-weight: 300; */
+  font-family: "Fjord One", serif;
+  font-weight: 400;
+}
+
+
+
+button{
+
+   width: 140px; 
+   height: 60px;
+   display: block;
+   margin: auto;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   background-color:rgb(32, 32, 64);
+   border: 1px solid black;
+   border-radius: 40px;
+   transition: background-color 1s , transform 1s ;
+   
+   
+ 
+}
+
+button:hover{
+   background-color: aqua;
+   transform: scale(1.1);
+}
+
+.a2{
+   text-decoration: none;
+   color: rgb(133, 22, 206);
+   font-size: 25px;
+   font-weight: bolder;
+   font-family: "Fjord One", serif;
+   
+}
+
+
+fieldset{
+  width: 32%;
+  margin: auto;
+  margin-top: 20px;
+  background-color: rgba(103, 39, 145, 0.537);
+ 
+
+}
+
+legend{
+   margin: auto;
+   font-size: 30px;
+   font-weight: bolder;
+   color: rgba(32, 152, 251, 0.812);
+}
+
+table{
+    padding: 0px 0px 20px 60px;
+}
+.c7{
+  
+   margin: 44px 0px 40px 1px;
+  /* transition-property: border-color ;
+  transition-duration: 1s; */
+   transition:  border-color 1s 0s,  transform 1s 0s ;
+}
+
+.c7:hover{
+
+   border-color: rgba(255, 0, 0, 0.619);
+    transform: scale(1.1);
+}
+
+
+.c8{
+ 
+  margin:30px 20px 20px 0px;
+}
+
+.submit{
+   margin-left: 200px;
+   /* transition-property:background-color ;
+   transition-duration: 1s; */
+    font-size: 20px;
+    border: 4px solid black;
+    border-radius: 40px;
+    font-family: "Fjord One", serif;
+    transition:  background-color 1s 0s,  transform 1s 0s ;
+    
+}  
+ 
+.submit:hover{
+  
+   background-color: cyan;
+   transform: scale(1.1);
+}
+
+label{
+   color: black;
+
+   
+   font-size: 22px;
+   font-weight: bolder;
+   /* background-color: aquamarine; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
