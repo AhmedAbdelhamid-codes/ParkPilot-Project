@@ -20,10 +20,14 @@ Front-end project practice
 - CSS
 - Basic responsive design techniques
 
-## How to Use
-1. Open the `index.html` file in a web browser.
-2. Navigate through the pages to explore the features.
-3. Fill out the form to simulate reserving a parking spot.
+## 🔗 Live Demo
+http://fabulous-mousse-c12b71.netlify.app
+
+## 👨‍💻 Author
+
+Ahmed Abdelhamid  
+- facebook: https://www.facebook.com/ahmed.abdelhameed.1806253?locale=ar_AR
+- LinkedIn: https://www.linkedin.com/in/ahmed-abdelhamid-b4905837b/
 
 ---
 
