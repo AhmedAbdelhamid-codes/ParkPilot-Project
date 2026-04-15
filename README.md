@@ -21,7 +21,7 @@ Front-end project practice
 - Basic responsive design techniques
 
 ## 🔗 Live Demo
-http://fabulous-mousse-c12b71.netlify.app
+http://dapper-pie-6b27af.netlify.app
 
 ## 👨‍💻 Author
 
